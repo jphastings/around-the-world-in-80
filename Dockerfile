@@ -10,4 +10,4 @@ RUN go install -v ./...
 # Set LISTEN_PORT to :port
 # Set IS_RECEIVER to true on start/end box
 
-CMD ["around-the-world-in-80"]
+CMD ["app"]
